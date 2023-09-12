@@ -1,4 +1,4 @@
-// C language 
+// C 
 
 #include <stdio.h>
 #include <string.h>
